@@ -7,7 +7,7 @@
 <section class="hero-top">
     <div class="container hero-flex">
         <div class="hero-copy">
-            <p class="eyebrow">Cari & Temukan</p>
+            <p class="eyebrow">Cari & Temukan Barang Di Wilayah Indramayu</p>
             <h1>SiNemu, solusi cepat untuk barang hilang dan temuan di wilayah Indramayu.</h1>
             <p class="hero-subtitle">
                 Telusuri kategori, lihat detail barang, dan ajukan laporan atau klaim dengan mudah.
